@@ -1,5 +1,5 @@
 <ModManifest>
   <ManifestUrl>https://raw.githubusercontent.com/Glebun1998/Starterbag/main/Starterbag/Manifest.xml</ManifestUrl>
-  <Version>1.1"</Version>
-  <GameVersion ReleaseType="Alpha" Major="21" Minor="1" Build="16" />
+  <Version>1.2"</Version>
+  <GameVersion ReleaseType="Alpha" Major="21" Minor="1" Build="b16" />
 </ModManifest>
