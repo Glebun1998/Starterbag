@@ -1,0 +1,7 @@
+<configs>
+
+<set xpath="/entity_classes/entity_class[@name='playerMale' or @name='playerFemale']/property[@name='ItemsOnEnterGame.GameModeSurvivalMP']/@value">starterbag</set>
+<set xpath="/entity_classes/entity_class[@name='playerMale' or @name='playerFemale']/property[@name='ItemsOnEnterGame.GameModeSurvival']/@value">starterbag</set>
+<set xpath="/entity_classes/entity_class[@name='playerMale' or @name='playerFemale']/property[@name='ItemsOnEnterGame.GameModeSurvivalSP']/@value">starterbag</set>
+
+</configs>

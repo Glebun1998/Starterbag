@@ -1,0 +1,2 @@
+Key,File,Russian
+starterbag,items,Стартовый Рюкзак
