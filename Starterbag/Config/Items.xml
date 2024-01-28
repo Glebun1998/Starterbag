@@ -19,7 +19,7 @@
 		<property name="Use_time" value="0"/>
 		<property name="Sound_start" value="close_garbage"/>
 		<property name="Create_item" value="meleeToolRepairT0StoneAxe,meleeWpnBladeT0BoneKnife,meleeWpnClubT0WoodenClub,gunBowT0PrimitiveBow,ammoArrowStone,resourceWood,resourceRockSmall,drinkJarBoiledWater,foodCanChili,medicalFirstAidBandage,meleeToolTorch,keystoneBlock,resourceWaterFilter"/>
-		<property name="Create_item_count" value="1,1,1,1,25,155,30,2,2,2,1,1,1"/>
+		<property name="Create_item_count" value="1,1,1,1,50,200,30,2,2,2,1,1,1"/>
 	</property>
 </item>
 
